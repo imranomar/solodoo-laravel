@@ -1,2 +1,2 @@
 # solodoo-laravel
-Empty - please pull from https://github.com/imranomar/saloodo
+Repo has been moved to https://github.com/imranomar/saloodo
